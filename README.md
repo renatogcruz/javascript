@@ -12,5 +12,8 @@
         Blanditiis, ad beatae? Consequuntur, reiciendis unde? Accusamus adipisci 
         porro quasi dolor? Ab labore consequuntur nostrum alias, vel atque excepturi quasi.
     </p>
+    <h2>JavaScript básico</h2>
+    <h2>TypeScript básico</h2>
+    <h2>HTML e CSS básico</h2>
 </body>
 </html>
