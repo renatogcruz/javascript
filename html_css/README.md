@@ -8,7 +8,13 @@
 <body>
     <h1 id="heading-one" class="darkred">
         HTML5 e CSS3        
-    </h1>    
+    </h1> 
+    <p>
+    <a href="https://www.w3schools.com/html/default.asp" target="_blank">HTML Tutorial</a>                  
+    </p>
+    <p>
+    <a href="https://www.w3schools.com/css/default.asp" target="_blank">CSS Tutorial</a>                  
+    </p>   
     <p>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element" target="_blank">Elementos HTML</a>                  
     </p>
