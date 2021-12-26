@@ -5,8 +5,36 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <style>
+        body{
+            font-family: sans-serif;
+        }
+        label{
+            cursor: pointer;
+            display: block;
+        }
+
+    </style>
 </head>
 <body>
-    
+    <form action="#" method="get" target="_blank" autocomplete="off">
+        <p>Meu formulário</p>
+        <p>
+            <label>
+                Nome:
+                <input type="text" id="name" name="name" placeholder="seu nome"/>
+            </label>
+            
+        </p>        
+        <p>
+            <label>
+                E-mail:
+                <input type="text" id="email" name="email" placeholder="seu e-mail"/> 
+            </label>
+            
+        </p>
+        <button type="reset">Resetar</button>
+        <button type="submit">Enviar</button>
+    </form>
 </body>
 </html>

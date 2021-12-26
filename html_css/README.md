@@ -24,5 +24,11 @@
     <p>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model" target="_blank">Box model</a>                  
     </p>
+    <p>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Learn/Forms/How_to_structure_a_web_form" target="_blank">Como estruturar um formulário HTML</a>                  
+    </p>
+    <p>
+    <a href="https://www.w3schools.com/html/html_form_input_types.asp" target="_blank">HTML Input Types</a>                  
+    </p>
 </body>
 </html>
