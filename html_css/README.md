@@ -30,5 +30,9 @@
     <p>
     <a href="https://www.w3schools.com/html/html_form_input_types.asp" target="_blank">HTML Input Types</a>                  
     </p>
+    </p>
+    <p>
+    <a href="https://htmlcolorcodes.com/" target="_blank">Get HTML color codes</a>                  
+    </p>
 </body>
 </html>
