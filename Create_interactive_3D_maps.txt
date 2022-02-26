@@ -1,0 +1,23 @@
+Create interactive 3D maps with our new JavaScript API - email dia 25/02/2022
+
+Part of the art of designing a positive user experience is giving your application the flexibility to display information in the most intuitive way. That might be a top-down map view with a strict “Up = North” rule. Or, it might be an interactive map showing buildings and features – so users can find landmarks and neighborhoods.
+
+3D Maps and JavaScript
+
+If a more interactive, flexible view is just what your app needs, we have some good news. The latest version of the HERE JavaScript API allows you to provide 3D views that give your maps a fresher, more detailed look with a minimum amount of new code.
+
+By the time you’ve completed the hands-on example below, you’ll have created a new map using our new vector tiles and 3D renderer, and set the location, zoom and area of the view you want to provide your users.
+
+Ready to get started?
+
+Step one: If you’ve received this email, you’ve already completed step one by creating a HERE developer account.
+
+Log in at developer.here.com, to start your new project.
+
+Step two: If you haven’t previously created maps using the HERE JavaScript API, or if you just need a quick refresher, head over here to build your first interactive map.
+https://developer.here.com/documentation/maps/3.1.30.9/dev_guide/index.html
+
+...and to learn everything you need to know about displaying your maps in 3D, continue with this hands-on tutorial on our developer portal.
+https://developer.here.com/blog/now-in-3d-learn-how-to-use-the-camera-in-the-new-javascript-api-3.1?cid=Freemium-developer_nurture-YQ-Devblog-&utm_source=email&utm_medium=email&utm_campaign=Online_Dev_AlwaysOn_Learn_Nurture&mkt_tok=MTQyLVVFTC0zNDcAAAGC0RYJkRUURqffX25HWfh-QlHzwXenEj0-0blQOnMrLR7ji0XFy6fMDTltN60AbDt1wlj3_ZpIz3HjML9jDMpsZR9WP3ywPlOK2i_08ILEgyEVLpHNBt6S1A
+
+https://developer.here.com/blog/now-in-3d-learn-how-to-use-the-camera-in-the-new-javascript-api-3.1?cid=Freemium-developer_nurture-YQ-Devblog-&utm_source=email&utm_medium=email&utm_campaign=Online_Dev_AlwaysOn_Learn_Nurture&mkt_tok=MTQyLVVFTC0zNDcAAAGC0RYJkfARCeGDsIwZ-UzGWwRyOUSvKG04q9GOkTcZhiVg5eO0GIODw6TIiVDQ9HrvVqeAwzuCPKd6lMU-S_j32mQFagU7ospUxM8wxTmwWao-LAaTuVQXgw
